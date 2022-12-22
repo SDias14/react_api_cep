@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SDias14.github.io/react-api-cep/static/css/main.4c77c7bb.css",
-    "main.js": "/SDias14.github.io/react-api-cep/static/js/main.98478ace.js",
-    "static/js/787.b7db4088.chunk.js": "/SDias14.github.io/react-api-cep/static/js/787.b7db4088.chunk.js",
-    "index.html": "/SDias14.github.io/react-api-cep/index.html",
-    "main.4c77c7bb.css.map": "/SDias14.github.io/react-api-cep/static/css/main.4c77c7bb.css.map",
-    "main.98478ace.js.map": "/SDias14.github.io/react-api-cep/static/js/main.98478ace.js.map",
-    "787.b7db4088.chunk.js.map": "/SDias14.github.io/react-api-cep/static/js/787.b7db4088.chunk.js.map"
+    "main.css": "/SDias14/react_api_cep/static/css/main.4c77c7bb.css",
+    "main.js": "/SDias14/react_api_cep/static/js/main.e1653631.js",
+    "static/js/787.b7db4088.chunk.js": "/SDias14/react_api_cep/static/js/787.b7db4088.chunk.js",
+    "index.html": "/SDias14/react_api_cep/index.html",
+    "main.4c77c7bb.css.map": "/SDias14/react_api_cep/static/css/main.4c77c7bb.css.map",
+    "main.e1653631.js.map": "/SDias14/react_api_cep/static/js/main.e1653631.js.map",
+    "787.b7db4088.chunk.js.map": "/SDias14/react_api_cep/static/js/787.b7db4088.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c77c7bb.css",
-    "static/js/main.98478ace.js"
+    "static/js/main.e1653631.js"
   ]
 }
